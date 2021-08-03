@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+        <remote name="RidwanAdiCahyono"
+                fetch="https://github.com" />
+                
+        <!-- Sync trees -->
+        <project path="device/xiaomi/rolex" name="RidwanAdiCahyono/android_device_xiaomi_rolex" remote="RidwanAdiCahyono" revision="r" />
+        <project path="kernel/xiaomi/msm8937" name="RidwanAdiCahyono/android_kernel_kernel_xiaomi_msm8937" remote="RidwanAdiCahyono" revision="11" />
+        <project path="vendor/xiaomi/rolex" name="RidwanAdiCahyono/android_vendor_xiaomi_rolex" remote="RidwanAdiCahyono" revision="r" />
+
+</manifest>
